@@ -2,7 +2,7 @@
 layout: page
 title: Climate Change & Global Health
 description: Modeling climate-driven global health impacts
-img: assets/img/project3.jpg
+# img: assets/img/project3.jpg
 importance: 3
 category: Sustainability
 ---
