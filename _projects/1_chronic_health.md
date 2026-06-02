@@ -2,7 +2,7 @@
 layout: page
 title: Chronic Disease Early-Warning Systems
 description: MEDWACS & MERWACS algorithms for predictive health
-img: assets/img/project1.jpg # Upload an image to assets/img/ or remove this line
+img: assets/img/JCE.jpg # Upload an image to assets/img/ or remove this line
 importance: 1
 category: Public Health
 ---
