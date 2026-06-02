@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://orbit.dtu.dk/en/persons/daniel-yoo">Postdoctoral Researcher at Technical University of Denmark (DTU)</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg # Put your photo in assets/img/
+  image_circular: true 
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Søborg, Denmark 2860</p>
+    <p>dyoo@dtu.dk</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true 
+selected_papers: true 
+social: true 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at the Technical University of Denmark (DTU), working with Prof. Olivier Jolliet. My research focuses on developing and scaling machine learning methodologies to address global challenges in public health, sustainable diets, and climate-driven health impacts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, my active research pipeline includes developing early-warning systems for chronic health conditions (MEDWACS, MERWACS), optimizing sustainable diets using survival analysis in collaboration with DTU Food, and evaluating the health impacts of climate change with DTU Sustain. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My methodological foundation is rooted in rigorous biostatistics and clinical AI. During my PhD (Université Paris Cité) and postdoctoral work (Stanford University), I developed and externally validated automated diagnostic systems for organ transplantation. Having successfully deployed these high-precision clinical tools, my current work translates these advanced AI methodologies to population-level public health and environmental sustainability.
+
+***
+
+#### Domain & Technical Specializations
+Alongside my core expertise in Deep Learning and MLOps, I hold specialized certifications in:
+* **Public & Environmental Health:** Human Health and Climate Change (UN), Food Security and Sustainability (Wageningen)
+* **Agri-Food & Nutrition:** Healthy and Sustainable Foods (Michigan), Big Data for Agri-Food (Wageningen)
