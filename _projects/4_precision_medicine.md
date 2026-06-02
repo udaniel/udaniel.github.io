@@ -13,6 +13,24 @@ During my PhD and early postdoctoral work at Université Paris Cité and Stanfor
 This work successfully translated complex biostatistics into clinical tools that minimize invasive procedures, improve diagnostic precision, and assess macro-level healthcare system shocks (such as pandemics) on global transplant networks.
 
 ### Key Publications
+
+<!-- This creates a 3-column grid for your logos -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/natcomms_logo.png" title="Nature Communications" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/natmed_logo.png" title="Nature Medicine" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lancet_logo.png" title="The Lancet Public Health" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<!-- Optional caption under the images -->
+<div class="caption">
+    Research published in high-impact journals including Nature Communications, Nature Medicine, and The Lancet Public Health.
+</div>
+
 * **Nature Communications (2024):** [A machine learning-driven virtual biopsy system for kidney transplant patients](https://www.nature.com/articles/s41467-023-44595-z)
 * **Nature Medicine (2023):** [An automated histological classification system for precision diagnostics of kidney allografts](https://www.nature.com/articles/s41591-023-02323-6)
 * **The Lancet Public Health (2021):** [COVID-19 pandemic and worldwide organ transplantation: a population-based study](https://www.sciencedirect.com/science/article/pii/S2468266721002000?via%3Dihub)
