@@ -17,13 +17,13 @@ This work successfully translated complex biostatistics into clinical tools that
 <!-- This creates a 3-column grid for your logos -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ncomms.png" title="Nature Communications" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ncomms.jpg" title="Nature Communications" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nature_medicine.jpg" title="Nature Medicine" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lancet_PH.png" title="The Lancet Public Health" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/lancet_PH.jpg" title="The Lancet Public Health" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- Optional caption under the images -->
