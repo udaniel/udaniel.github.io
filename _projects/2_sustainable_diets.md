@@ -2,7 +2,7 @@
 layout: page
 title: Sustainable Diets & Health
 description: Estimating life expectancy impacts from dietary risks
-img: assets/img/project2.jpg
+# img: assets/img/project2.jpg
 importance: 2
 category: Sustainability
 ---
