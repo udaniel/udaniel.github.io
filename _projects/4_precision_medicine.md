@@ -36,7 +36,7 @@ This work successfully translated complex biostatistics into clinical tools that
 * **The Lancet Public Health (2021):** [COVID-19 pandemic and worldwide organ transplantation: a population-based study](https://www.sciencedirect.com/science/article/pii/S2468266721002000?via%3Dihub)
 
 ### Real-World Impact & Popular Media
-These algorithms gained significant international media attention for their capacity to improve patient outcomes and their insights into maintaining organ transplant safety during the COVID-19 pandemic:
+These algorithms gained significant international media attention for their capacity to improve patient outcomes and their insights into maintaining organ transplant safety during the COVID-19 pandemic.
 
 <!-- Media Logos Grid -->
 <div class="row mt-3 mb-4">
