@@ -2,7 +2,7 @@
 layout: page
 title: Precision Medicine & Clinical AI
 description: AI-driven virtual biopsy systems for organ transplantation
-img: assets/img/project4.jpg
+img: assets/img/nature_medicine.jpg
 importance: 4
 category: Clinical AI
 ---
