@@ -38,6 +38,28 @@ This work successfully translated complex biostatistics into clinical tools that
 ### Real-World Impact & Popular Media
 These algorithms gained significant international media attention for their capacity to improve patient outcomes and their insights into maintaining organ transplant safety during the COVID-19 pandemic:
 
+<!-- Media Logos Grid -->
+<div class="row mt-3 mb-4">
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/the_guardian.png" title="The Guardian" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/the_times.jpg" title="The Times" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/new_york_post.jpg" title="New York Post" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/le_monde.jpg" title="Le Monde" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/le_figaro.jpg" title="Le Figaro" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/nature_medicine.jpg" title="Nature Medicine News" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 **On AI Diagnostics & Virtual Biopsies:**
 * **Nature Medicine:** [Automating kidney transplant diagnostics](https://www.nature.com/articles/s41591-023-02300-z)
 * **Le Monde:** [Un algorithme améliore le diagnostic de rejet de greffe du rein](https://www.lemonde.fr/sciences/article/2023/05/09/un-algorithme-ameliore-le-diagnostic-de-rejet-de-greffe-du-rein_6172583_1650684.html)
