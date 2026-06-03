@@ -1,19 +1,11 @@
-- name: CV
-  link: /assets/pdf/cv.pdf
-  icon: fas fa-file-alt
+# Social & Contact Links (This overrides the Einstein defaults)
+email: dyoo@dtu.dk
+scholar_userid: n92fRy4AAAAJ
+linkedin_username: yoodaniel
+orcid_id: 0000-0002-2153-5093
 
-- name: Email
-  link: mailto:dyoo@dtu.dk
-  icon: fas fa-envelope
-
-- name: LinkedIn
-  link: https://www.linkedin.com/in/yoodaniel/
-  icon: fab fa-linkedin
-
-- name: Google Scholar
-  link: https://scholar.google.com/citations?user=n92fRy4AAAAJ&hl=en
-  icon: ai ai-google-scholar
-
-- name: ORCID
-  link: https://orcid.org/0000-0002-2153-5093
-  icon: fab fa-orcid
+# Force disable the default template icons
+rss_icon: false
+work_url: ""
+wikidata: ""
+github_username: ""
