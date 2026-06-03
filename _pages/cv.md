@@ -39,11 +39,11 @@ description: >
   - Distinction: **Highest Honors (Très honorable)** – awarded unanimously by the jury  
   - Jury: Umberto Maggiore, Rachel Patzer, Candice Roufosse, Xavier Jouven, Alexandre Loupy (supervisor)
 
-- **MPH (Master 2) in Methodology and Statistics in Biomedical Research** | Université Paris-Saclay, France | 2018 – 2019
-
-- **BSc in Mathematics (Music Minor)** | University of Alberta, Canada | 2012 – 2014
-
-- **BSc in Mathematics (Transfer)** | State University of New York (SUNY) Plattsburgh, USA | 2010 – 2012
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MPH (Master 2) in Methodology and Statistics in Biomedical Research | Université Paris-Saclay, France | 2018 – 2019 |
+| BSc in Mathematics (Music Minor) | University of Alberta, Canada | 2012 – 2014 |
+| BSc in Mathematics (Transfer) | State University of New York (SUNY) Plattsburgh, USA | 2010 – 2012 |
 
 ## Current Employment
 
