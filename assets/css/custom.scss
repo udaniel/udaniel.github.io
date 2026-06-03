@@ -1,0 +1,11 @@
+@media print {
+  .btn {
+    display: none !important;
+  }
+  body {
+    font-size: 10pt;
+  }
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+}
