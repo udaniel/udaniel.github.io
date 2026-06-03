@@ -10,6 +10,19 @@ contact_note: >
   You can contact me via email or connect with me on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral Researcher | AI for Public Health, Sustainable Food Systems, & Climate Health
+
+# Social & Contact Links (This overrides the Einstein defaults)
+email: dyoo@dtu.dk
+scholar_userid: n92fRy4AAAAJ
+linkedin_username: yoodaniel
+orcid_id: 0000-0002-2153-5093
+
+# Force disable the default template icons
+rss_icon: false
+work_url: ""
+wikidata: ""
+github_username: ""
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
