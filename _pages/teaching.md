@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 nav: true
-nav_order: 5
+nav_order: 4
 description: A summary of my teaching, supervision, and mentoring activities.
 ---
 
