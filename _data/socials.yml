@@ -1,11 +1,1 @@
-# Social & Contact Links (This overrides the Einstein defaults)
-email: dyoo@dtu.dk
-scholar_userid: n92fRy4AAAAJ
-linkedin_username: yoodaniel
-orcid_id: 0000-0002-2153-5093
 
-# Force disable the default template icons
-rss_icon: false
-work_url: ""
-wikidata: ""
-github_username: ""
