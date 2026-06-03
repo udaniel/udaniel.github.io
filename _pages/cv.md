@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 nav: true
-nav_order: 4
+nav_order: 5
 cv_pdf: cv.pdf
 description: >
   You can download a PDF copy of my full CV using the button on the right.
