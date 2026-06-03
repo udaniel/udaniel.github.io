@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Scaling AI from organs to ecosystems.
 nav: true
 nav_order: 3
 display_categories: [Public Health, Sustainability, Clinical AI]
