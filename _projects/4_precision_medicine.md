@@ -52,16 +52,16 @@ These algorithms gained significant international media attention for their capa
     <div class="col-6 col-md-3 mt-3 mt-md-0">
         {% include figure.liquid loading="lazy" path="assets/img/le_monde.jpg" title="Le Monde" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-6 col-md-3 mt-4">
         {% include figure.liquid loading="lazy" path="assets/img/le_figaro.jpg" title="Le Figaro" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-6 col-md-3 mt-4">
         {% include figure.liquid loading="lazy" path="assets/img/nature_medicine.jpg" title="Nature Medicine News" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-6 col-md-3 mt-4">
         {% include figure.liquid loading="lazy" path="assets/img/forbes.jpg" title="Forbes" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-6 col-md-3 mt-4">
         {% include figure.liquid loading="lazy" path="assets/img/aljazeera.jpeg" title="Al Jazeera" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
