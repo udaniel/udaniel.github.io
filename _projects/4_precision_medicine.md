@@ -65,6 +65,9 @@ These algorithms gained significant international media attention for their capa
         {% include figure.liquid loading="lazy" path="assets/img/aljazeera.jpeg" title="Al Jazeera" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    International media coverage including The Guardian, The Times, Forbes, Al Jazeera, Le Monde, and more.
+</div>
 
 **On AI Diagnostics & Virtual Biopsies:**
 * **Nature Medicine:** [Automating kidney transplant diagnostics](https://www.nature.com/articles/s41591-023-02300-z)
@@ -76,3 +79,5 @@ These algorithms gained significant international media attention for their capa
 * **New York Post:** [Organ transplants saw marked decline worldwide amid pandemic](https://nypost.com/2021/09/01/organ-transplants-saw-marked-decline-worldwide-amid-pandemic/)
 * **Le Monde:** [La pandémie a entraîné un net ralentissement des transplantations d’organes](https://www.lemonde.fr/sciences/article/2021/08/31/la-pandemie-a-entraine-un-net-ralentissement-des-transplantations-d-organes_6092815_1650684.html)
 * **Le Figaro:** [Covid-19 : les greffes d'organes en baisse de près de 16% entre 2019 et 2020](https://www.lefigaro.fr/sciences/covid-19-les-greffes-d-organes-en-baisse-de-pres-de-16-entre-2019-et-2020-20210901)
+* **Forbes** – [Organ Transplants Fell By A Third Worldwide During First Covid-19 Wave](https://www.forbes.com/sites/dishashetty/2021/08/31/organ-transplants-fell-by-a-third-worldwide-during-first-covid-19-wave/)
+* **Al Jazeera** – [Organ transplants fell globally during the pandemic, study says](https://www.aljazeera.com/news/2021/8/31/organ-transplants-fell-globally-during-the-pandemic-study-says)
