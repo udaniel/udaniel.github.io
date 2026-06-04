@@ -204,19 +204,16 @@ description: >
 
 ## Certifications (selected)
 
-- Professional Certificate in PyTorch for Deep Learning (DeepLearning.AI)
-- Healthy and Sustainable Foods and Products (University of Michigan)
-- Human Health and Climate Change (United Nations)
-- AI for Good (DeepLearning.AI)
-- Food Security and Sustainability (Wageningen)
-- Big Data for Agri‑Food (Wageningen)
-- MLOps Specialization (DeepLearning.AI)
-- Tiny Machine Learning (HarvardX)
-- Deep Learning Specialization (DeepLearning.AI)
-- Machine Learning (Stanford University)
-- Data Science (HarvardX)
-- Oracle Certified Professional, Java SE 6
-- Big Data XSeries (UC Berkeley)
+- [Professional Certificate in PyTorch for Deep Learning](https://www.coursera.org/account/accomplishments/specialization/A6J5ATGCJJ0U) (DeepLearning.AI)
+- [Professional Certificate in Food, Nutrition and Health](https://credentials.edx.org/credentials/7ed917d4a4c94e188c6269e4e2597e63/) (Wageningen University & Research)
+- [Healthy and Sustainable Foods and Products Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/LXE4UAEA8YLX) (University of Michigan)
+- [AI for Good Specialization](https://www.coursera.org/account/accomplishments/specialization/KRY5KQP8GYET) (DeepLearning.AI)
+- [Professional Certificate in Food Security and Sustainability](https://credentials.edx.org/credentials/6c2c3a579c5f40eea2d9cb76e2746f30/) (Wageningen University & Research)
+- [Professional Certificate in Machine Learning Engineering for Production (MLOps) Specialization](https://coursera.org/share/fd3ca211a92ca969a46e9705bfffec73) (DeepLearning.AI)
+- [Professional Certificate in Big Data for Agri‑Food: Principles and Tools](https://courses.edx.org/certificates/caaf103b593943d7858099372b76af0d) (Wageningen University & Research)
+- [Professional Certificate in Tiny Machine Learning (TinyML)](https://credentials.edx.org/credentials/0f4aa542e71047d1a5f3e16a55d6b589/) (HarvardX)
+- [Deep Learning Specialization](https://coursera.org/share/8a0025d03d9983bae78fa6b8c9289d8b) (DeepLearning.AI)
+- [Professional Certificate in Data Science](https://credentials.edx.org/credentials/c1f6c90bf6c946b9868064a726fb4991/) (HarvardX)
 
 *(Full list available in the PDF)*
 
