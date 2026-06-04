@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-nav: true
-nav_order: 1
 subtitle: <a href="https://orbit.dtu.dk/en/persons/daniel-yoo">Postdoctoral Researcher at Technical University of Denmark (DTU)</a>
 
 profile:
