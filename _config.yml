@@ -24,10 +24,8 @@ wikidata: ""
 github_username: ""
 
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Scaling AI from clinical precision medicine to planetary health.
+keywords: Daniel Yoo, machine learning, public health, biostatistics, planetary health, sustainable food systems, sustainability, climate health, clinical AI, precision medicine, predictive modeling, epidemiology, DTU # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ai-image.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
