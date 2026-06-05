@@ -40,28 +40,28 @@ These algorithms gained significant international media attention for their capa
 
 <!-- Media Logos Grid -->
 <div class="row mt-3 mb-4 align-items-center">
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/the_guardian.png" title="The Guardian" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/the_times.jpg" title="The Times" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/new_york_post.jpg" title="New York Post" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-3 mt-md-0">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/le_monde.jpg" title="Le Monde" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-4">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/le_figaro.jpg" title="Le Figaro" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-4">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/nature_medicine.jpg" title="Nature Medicine News" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-4">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/forbes.jpg" title="Forbes" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-6 col-md-3 mt-4">
+    <div class="col-4 col-md-3 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/aljazeera.jpeg" title="Al Jazeera" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
