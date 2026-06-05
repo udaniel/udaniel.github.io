@@ -20,7 +20,7 @@ By leveraging patient-accessible data, we build scalable, home-based early warni
         {% include figure.liquid loading="lazy" path="assets/img/JCE.jpg" title="Journal of Clinical Epidemiology" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/PLOS.gif" title="PLOS Digital Health" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/img/PLOS.gif" alt="PLOS Digital Health" class="img-fluid rounded z-depth-1" style="width: 100%;">
     </div>
 </div>
 
