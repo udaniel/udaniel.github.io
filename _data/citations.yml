@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   n92fRy4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: Development and Validation of a Machine Learning Model for Reduced Kidney Health Risk Assessment
     year: '2025'
   n92fRy4AAAAJ:IjCSPb-OGe4C:
-    citations: 93
+    citations: 92
     title: 'Dynamic prediction of renal survival among deeply phenotyped kidney transplant recipients using artificial intelligence: an observational, international, multicohort study'
     year: '2021'
   n92fRy4AAAAJ:KlAtU1dfN6UC:
@@ -74,7 +74,7 @@ papers:
     title: 'MULTIDIMENSIONAL PROGNOSTICATION TOOL FOR KIDNEY TRANSPLANT PATIENT SURVIVAL: THE MORTALITY MBOX'
     year: '2022'
   n92fRy4AAAAJ:W7OEmFMy1HYC:
-    citations: 291
+    citations: 292
     title: 'COVID-19 pandemic and worldwide organ transplantation: a population-based study'
     year: '2021'
   n92fRy4AAAAJ:WF5omc3nYNoC:
@@ -82,7 +82,7 @@ papers:
     title: 'Deceased donor kidney transplantation across donor-specific antibody barriers: predictors of antibody-mediated rejection'
     year: '2016'
   n92fRy4AAAAJ:Wp0gIr-vW9MC:
-    citations: 69
+    citations: 75
     title: Microvascular inflammation of kidney allografts and clinical outcomes
     year: '2025'
   n92fRy4AAAAJ:Y0pCki6q_DkC:
@@ -130,7 +130,7 @@ papers:
     title: Development and Validation of a Machine Learning Based Virtual Biopsy System in Kidney Transplant Patients.
     year: '2022'
   n92fRy4AAAAJ:kNdYIx-mwKoC:
-    citations: 71
+    citations: 72
     title: An automated histological classification system for precision diagnostics of kidney allografts
     year: '2023'
   n92fRy4AAAAJ:mVmsd5A6BfQC:
