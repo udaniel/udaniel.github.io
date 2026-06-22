@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-22'
 papers:
   n92fRy4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -82,15 +82,15 @@ papers:
     title: 'Deceased donor kidney transplantation across donor-specific antibody barriers: predictors of antibody-mediated rejection'
     year: '2016'
   n92fRy4AAAAJ:Wp0gIr-vW9MC:
-    citations: 77
+    citations: 79
     title: Microvascular inflammation of kidney allografts and clinical outcomes
     year: '2025'
   n92fRy4AAAAJ:Y0pCki6q_DkC:
-    citations: 74
+    citations: 75
     title: Trajectories of glomerular filtration rate and progression to end stage kidney disease after kidney transplantation
     year: '2021'
   n92fRy4AAAAJ:YOwf2qJgpHMC:
-    citations: 39
+    citations: 40
     title: A machine learning-driven virtual biopsy system for kidney transplant patients
     year: '2024'
   n92fRy4AAAAJ:YsMSGLbcyi4C:
@@ -130,7 +130,7 @@ papers:
     title: Development and Validation of a Machine Learning Based Virtual Biopsy System in Kidney Transplant Patients.
     year: '2022'
   n92fRy4AAAAJ:kNdYIx-mwKoC:
-    citations: 73
+    citations: 75
     title: An automated histological classification system for precision diagnostics of kidney allografts
     year: '2023'
   n92fRy4AAAAJ:mB3voiENLucC:
@@ -170,6 +170,6 @@ papers:
     title: IMPACT OF THE COVID-19 PANDEMIC ON WORLDWIDE ORGAN DONATION AND TRANSPLANTATION
     year: '2021'
   n92fRy4AAAAJ:zYLM7Y9cAGgC:
-    citations: 106
+    citations: 107
     title: 'Identification and characterization of trajectories of cardiac allograft vasculopathy after heart transplantation: a population-based study'
     year: '2020'
