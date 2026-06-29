@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   n92fRy4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -37,12 +37,16 @@ papers:
     citations: 0
     title: 'DYNAMIC PREDICTION OF KIDNEY GRAFT SURVIVAL WITH ARTIFICIAL INTELLIGENCE: AN INTERNATIONAL STUDY OF DEEP COHORTS OF KIDNEY RECIPIENTS'
     year: '2021'
+  n92fRy4AAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: 'Decelerating Death: Estimating Changes in Life Expectancy from Dietary Risk Factors Using Accelerated Failure Time'
+    year: '2026'
   n92fRy4AAAAJ:IWHjjKOFINEC:
     citations: 0
     title: Development and Validation of a Machine Learning Model for Reduced Kidney Health Risk Assessment
     year: '2025'
   n92fRy4AAAAJ:IjCSPb-OGe4C:
-    citations: 95
+    citations: 96
     title: 'Dynamic prediction of renal survival among deeply phenotyped kidney transplant recipients using artificial intelligence: an observational, international, multicohort study'
     year: '2021'
   n92fRy4AAAAJ:KlAtU1dfN6UC:
@@ -142,7 +146,7 @@ papers:
     title: Development of a virtual biopsy system and diagnosis automation in kidney transplantation
     year: '2023'
   n92fRy4AAAAJ:qUcmZB5y_30C:
-    citations: 0
+    citations: 1
     title: Machine learning assessment of individual fatty acids and related dietary factors on all-cause mortality risk
     year: '2026'
   n92fRy4AAAAJ:qjMakFHDy7sC:
