@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   n92fRy4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: "D\xE9veloppement, application et validation d\u2019un syst\xE8me automatis\xE9 de la classification histologique de Banff en transplantation r\xE9nale"
     year: '2022'
   n92fRy4AAAAJ:2osOgNQ5qMEC:
-    citations: 77
+    citations: 76
     title: Archetype analysis identifies distinct profiles in renal transplant recipients with transplant glomerulopathy associated with allograft survival
     year: '2019'
   n92fRy4AAAAJ:4DMP91E08xMC:
@@ -46,7 +46,7 @@ papers:
     title: Development and Validation of a Machine Learning Model for Reduced Kidney Health Risk Assessment
     year: '2025'
   n92fRy4AAAAJ:IjCSPb-OGe4C:
-    citations: 100
+    citations: 102
     title: 'Dynamic prediction of renal survival among deeply phenotyped kidney transplant recipients using artificial intelligence: an observational, international, multicohort study'
     year: '2021'
   n92fRy4AAAAJ:KlAtU1dfN6UC:
@@ -82,7 +82,7 @@ papers:
     title: 'MULTIDIMENSIONAL PROGNOSTICATION TOOL FOR KIDNEY TRANSPLANT PATIENT SURVIVAL: THE MORTALITY MBOX'
     year: '2022'
   n92fRy4AAAAJ:W7OEmFMy1HYC:
-    citations: 292
+    citations: 289
     title: 'COVID-19 pandemic and worldwide organ transplantation: a population-based study'
     year: '2021'
   n92fRy4AAAAJ:WF5omc3nYNoC:
@@ -90,15 +90,15 @@ papers:
     title: 'Deceased donor kidney transplantation across donor-specific antibody barriers: predictors of antibody-mediated rejection'
     year: '2016'
   n92fRy4AAAAJ:Wp0gIr-vW9MC:
-    citations: 87
+    citations: 89
     title: Microvascular inflammation of kidney allografts and clinical outcomes
     year: '2025'
   n92fRy4AAAAJ:Y0pCki6q_DkC:
-    citations: 75
+    citations: 74
     title: Trajectories of glomerular filtration rate and progression to end stage kidney disease after kidney transplantation
     year: '2021'
   n92fRy4AAAAJ:YOwf2qJgpHMC:
-    citations: 42
+    citations: 45
     title: A machine learning-driven virtual biopsy system for kidney transplant patients
     year: '2024'
   n92fRy4AAAAJ:YsMSGLbcyi4C:
@@ -178,6 +178,6 @@ papers:
     title: IMPACT OF THE COVID-19 PANDEMIC ON WORLDWIDE ORGAN DONATION AND TRANSPLANTATION
     year: '2021'
   n92fRy4AAAAJ:zYLM7Y9cAGgC:
-    citations: 107
+    citations: 104
     title: 'Identification and characterization of trajectories of cardiac allograft vasculopathy after heart transplantation: a population-based study'
     year: '2020'
