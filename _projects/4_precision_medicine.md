@@ -12,7 +12,7 @@ During my PhD and early postdoctoral work at Université Paris Cité and Stanfor
 
 This work successfully translated complex biostatistics into clinical tools that minimize invasive procedures, improve diagnostic precision, and assess macro-level healthcare system shocks (such as pandemics) on global transplant networks.
 
-### Key Publications
+### Key Publication
 
 <!-- This creates a 3-column grid for your logos -->
 <div class="row">
