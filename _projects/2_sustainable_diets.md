@@ -1,17 +1,22 @@
 ---
 layout: page
-title: Sustainable Diets & Health
-description: Estimating life expectancy impacts from dietary risks
-# img: assets/img/project2.jpg
+title: Sustainable Diets & Planetary Health
+description: Data-driven diet optimization for health and environment
 importance: 2
 category: Sustainability
 ---
 
 ### Project Overview
-In collaboration with DTU Food, this ongoing research applies advanced survival analysis (accelerated failure time models) to estimate years of life lost and gained from specific dietary risks. 
+In an ongoing collaboration with **DTU Food (National Food Institute of Denmark)**, my research focuses on **Project MOOMEAL**, an advanced data-driven framework for optimizing sustainable diets. 
 
-The goal is to provide quantitative, data-driven optimization strategies for sustainable diets that benefit both human health and environmental sustainability.
+This project leverages large-scale national dietary data to generate personalized meal optimization strategies that simultaneously maximize human health and minimize environmental impact. 
 
-### Key Outputs
-* **Presentation:** *Estimating years of life lost and gained from dietary risks using an accelerated failure time model* (European Public Health Conference, Helsinki 2025).
-* **Publication in Press:** *Machine learning assessment of individual fatty acids and related dietary factors on all-cause mortality risk* (Food Research International, 2026).
+### Core Approach
+To ensure our dietary recommendations are both sustainable and culturally plausible for the general population, we bridge advanced machine learning with nutritional epidemiology:
+* **Dietary Pattern Mapping:** We apply natural language processing (NLP) techniques to massive datasets of meal sequences, allowing us to map and cluster complex food co-occurrence patterns in real-world diets.
+* **Algorithmic Optimization:** We developed a mathematical optimization framework to recommend targeted food substitutions. The model carefully balances health indices and climate boundaries (such as Greenhouse Gas Emissions) while strictly respecting the user's original macronutrient intake and personal preferences.
+
+### Current Status & Impact
+By anchoring our algorithms to real, observed dietary behaviors rather than theoretical averages, the framework successfully produces personalized, nutritionally and environmentally improved meal recommendations for the Danish adult population. 
+
+*(Manuscripts detailing the full methodology and population-level results are currently in preparation).*
