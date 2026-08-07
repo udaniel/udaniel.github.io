@@ -1,0 +1,13 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Find all al-folio bibliography annotation icons
+  document.querySelectorAll('[data-content]').forEach(function(el) {
+    var content = el.getAttribute('data-content');
+    if (content) {
+      // Convert the hidden content into a native browser hover tooltip
+      el.setAttribute('title', content);
+      el.style.cursor = 'pointer';
+    }
+  });
+});
+</script>
