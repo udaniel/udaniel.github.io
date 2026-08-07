@@ -17,11 +17,11 @@ selected_papers: true
 social: true 
 ---
 
-I am a Postdoctoral Researcher at the Technical University of Denmark (DTU), working with Prof. Olivier Jolliet. My research focuses on developing and scaling machine learning methodologies to address global challenges in public health, sustainable diets, and climate-driven health impacts.
+I am a Postdoctoral Researcher at the Technical University of Denmark (DTU), working with Prof. Olivier Jolliet. My research focuses on developing and scaling advanced machine learning methodologies to address global challenges in public health, sustainable food systems, and climate-driven health impacts.
 
-Currently, my active research pipeline includes developing early-warning systems for chronic health conditions (MEDWACS, MERWACS), optimizing sustainable diets using survival analysis in collaboration with DTU Food, and evaluating the health impacts of climate change with DTU Sustain. 
+Currently, my active research pipeline includes developing non-invasive, AI-driven early-warning systems for chronic health conditions (MEDWACS, MERWACS). In collaboration with DTU Food, I utilize natural language processing and mathematical optimization to model and design culturally plausible, sustainable diets. Additionally, at my home department of DTU Sustain, I quantify the unequal global health burdens of climate change to drive accountability and planetary health policy.
 
-My methodological foundation is rooted in rigorous biostatistics and clinical AI. During my PhD (Université Paris Cité) and postdoctoral work (Stanford University), I developed and externally validated automated diagnostic systems for organ transplantation. Having successfully deployed these high-precision clinical tools, my current work translates these advanced AI methodologies to population-level public health and environmental sustainability.
+My methodological foundation is rooted in rigorous biostatistics and clinical AI. During my PhD (Université Paris Cité) and early postdoctoral work (Stanford University), I developed and externally validated automated diagnostic systems and virtual biopsies for organ transplantation. Having successfully deployed these high-precision clinical tools, my current work translates these advanced AI methodologies to population-level public health and environmental sustainability.
 
 ***
 
