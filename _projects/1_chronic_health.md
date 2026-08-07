@@ -30,7 +30,7 @@ By leveraging patient-accessible data, we build scalable, home-based early warni
 ### Real-World Impact & Popular Media
 The MEDWACS early-warning tool has received extensive media coverage across international and Danish national outlets for its innovative approach to home-based diabetes screening using accessible body measurements.
 
-<!-- Media Logos Grid (10 Logos) -->
+<!-- Media Logos Grid (12 Logos) -->
 <div class="row mt-3 mb-4 align-items-center justify-content-center">
     <!-- Row 1 -->
     <div class="col-4 col-md-2 mt-3">
@@ -40,10 +40,10 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
         {% include figure.liquid loading="lazy" path="assets/img/yahoo_health.jpg" title="Yahoo Health" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 col-md-2 mt-3">
-        {% include figure.liquid loading="lazy" path="assets/img/tv2_news.jpg" title="TV 2 News" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/marie_claire.jpeg" title="Marie Claire" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 col-md-2 mt-3">
-        {% include figure.liquid loading="lazy" path="assets/img/dr_news.png" title="DR News" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/daily_mail.png" title="Daily Mail" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 col-md-2 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/berlingske.jpg" title="Berlingske" class="img-fluid rounded z-depth-1" %}
@@ -54,7 +54,13 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
     
     <!-- Row 2 -->
     <div class="col-4 col-md-2 mt-3">
+        {% include figure.liquid loading="lazy" path="assets/img/tv2_news.jpg" title="TV 2 News" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/tv2_kosmopol.png" title="TV 2 Kosmopol" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-4 col-md-2 mt-3">
+        {% include figure.liquid loading="lazy" path="assets/img/dr_news.png" title="DR News" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-4 col-md-2 mt-3">
         {% include figure.liquid loading="lazy" path="assets/img/medical_xpress.jpg" title="Medical Xpress" class="img-fluid rounded z-depth-1" %}
@@ -67,7 +73,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
     </div>
 </div>
 <div class="caption">
-    National and international media coverage including Newsweek, Yahoo Health, TV 2, DR, Berlingske, and Politiken.
+    National and international media coverage including Newsweek, Yahoo Health, Marie Claire, Daily Mail, TV 2, and DR.
 </div>
 
 **Television & Broadcast Interviews**
@@ -76,10 +82,15 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 
 **Print & Digital Media**
 * **Newsweek:** [One Body Measurement Could Help Reveal Your Diabetes Risk—It's Not Weight](https://www.newsweek.com/one-body-measurement-could-help-reveal-your-diabetes-risk-its-not-weight-12264603)
-* **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
+* * **Ritzau:** [Længden på dit lår kan være med til at afsløre diabetes](https://via.ritzau.dk/pressemeddelelse/15064645/laengden-pa-dit-lar-kan-vaere-med-til-at-afslore-diabetes?publisherId=13561337&lang=da)
+* **Marie Claire:** [Diabète de type 2 : voici ce que la longueur de vos cuisses dit de votre risque, selon une étude](https://www.marieclaire.fr/diabete-type-2-longueur-cuisses-test-depistage-ia,1518409.asp)
+* **Daily Mail:** [The length of your thighs can determine your risk of developing diabetes, researchers say](https://www.dailymail.com/health/article-16022081/Length-thighs-determine-developing-diabetes-researchers.html)
+* **EurekAlert! (AAAS):** [The length of your upper leg could help detect diabetes](https://www.eurekalert.org/news-releases/1138543)
 * **Berlingske:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.berlingske.dk/danmark/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Politiken:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News:** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
 * **Medical Xpress:** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
-* **Ritzau:** [Længden på dit lår kan være med til at afsløre diabetes](https://via.ritzau.dk/pressemeddelelse/15064645/laengden-pa-dit-lar-kan-vaere-med-til-at-afslore-diabetes?publisherId=13561337&lang=da)
+* * **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
+* * **Mind Body Green:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes) *
+* **myScience.dk:** [The length of your upper leg could help detect diabetes](https://www.myscience.dk/news/2026/the_length_of_your_upper_leg_could_help_detect_diabetes-2026-dtu)
