@@ -78,7 +78,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 
 **Television & Broadcast Interviews**
 * **TV 2 News:** [Ny hjemmetest viser risiko for diabetes](https://tv2.dk/reel/2026-07-31-ny-hjemmetest-viser-risiko-for-diabetes-6402517845112)
-* **TV 2 Kosmopol:** [Ny hjemmetest kan spore diabetes](https://www.tv2kosmopol.dk/metropolen/ny-hjemmetest-kan-spore-diabetes-57469) | [Ny online test viser risiko for diabetes med dit lår](https://www.tv2kosmopol.dk/ny-online-test-viser-risiko-for-diabetes-med-dit-laar)
+* **TV 2 Kosmopol:** [Ny hjemmetest kan spore diabetes](https://www.tv2kosmopol.dk/metropolen/ny-hjemmetest-kan-spore-diabetes-57469) \| [Ny online test viser risiko for diabetes med dit lår](https://www.tv2kosmopol.dk/ny-online-test-viser-risiko-for-diabetes-med-dit-laar)
 
 **Print & Digital Media**
 * **Newsweek:** [One Body Measurement Could Help Reveal Your Diabetes Risk—It's Not Weight](https://www.newsweek.com/one-body-measurement-could-help-reveal-your-diabetes-risk-its-not-weight-12264603)
@@ -93,4 +93,4 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
 * **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
 * **Mind Body Green:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes) *
-* **myScience.dk:** [The length of your upper leg could help detect diabetes](https://www.myscience.dk/news/2026/the_length_of_your_upper_leg_could_help_detect_diabetes-2026-dtu)
+* **myScience:** [The length of your upper leg could help detect diabetes](https://www.myscience.dk/news/2026/the_length_of_your_upper_leg_could_help_detect_diabetes-2026-dtu)
