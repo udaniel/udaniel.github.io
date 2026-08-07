@@ -82,7 +82,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 
 **Print & Digital Media**
 * **Newsweek:** [One Body Measurement Could Help Reveal Your Diabetes Risk—It's Not Weight](https://www.newsweek.com/one-body-measurement-could-help-reveal-your-diabetes-risk-its-not-weight-12264603)
-* * **Ritzau:** [Længden på dit lår kan være med til at afsløre diabetes](https://via.ritzau.dk/pressemeddelelse/15064645/laengden-pa-dit-lar-kan-vaere-med-til-at-afslore-diabetes?publisherId=13561337&lang=da)
+* **Ritzau:** [Længden på dit lår kan være med til at afsløre diabetes](https://via.ritzau.dk/pressemeddelelse/15064645/laengden-pa-dit-lar-kan-vaere-med-til-at-afslore-diabetes?publisherId=13561337&lang=da)
 * **Marie Claire:** [Diabète de type 2 : voici ce que la longueur de vos cuisses dit de votre risque, selon une étude](https://www.marieclaire.fr/diabete-type-2-longueur-cuisses-test-depistage-ia,1518409.asp)
 * **Daily Mail:** [The length of your thighs can determine your risk of developing diabetes, researchers say](https://www.dailymail.com/health/article-16022081/Length-thighs-determine-developing-diabetes-researchers.html)
 * **EurekAlert! (AAAS):** [The length of your upper leg could help detect diabetes](https://www.eurekalert.org/news-releases/1138543)
@@ -91,6 +91,6 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **DR News:** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
 * **Medical Xpress:** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
-* * **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
-* * **Mind Body Green:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes) *
+* **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
+* **Mind Body Green:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes) *
 * **myScience.dk:** [The length of your upper leg could help detect diabetes](https://www.myscience.dk/news/2026/the_length_of_your_upper_leg_could_help_detect_diabetes-2026-dtu)
