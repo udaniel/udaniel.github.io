@@ -17,7 +17,7 @@ We developed a global framework linking consumption-based greenhouse gas emissio
 
 ### Highlighted Findings
 Our modeling quantifies the profound scale of externalized harm driven by global consumption patterns:
-* **The Externalizer:** Average North American consumption imposes a global health burden of **34 days** of healthy life lost per person per year, without suffering net damage domestically.
-* **The Burdened:** In stark contrast, Sub-Saharan Africa endures a loss of **25 days** of healthy life per person per year, despite having minimal responsibility for global emissions.
+* **The Inducer:** Average North American consumption imposes a global health burden of **34 days** of healthy life lost per person per year, without suffering net damage domestically.
+* **The Receiver:** In stark contrast, Sub-Saharan Africa endures a loss of **25 days** of healthy life per person per year, despite having minimal responsibility for global emissions.
 
 *(More details and the full framework are available in our medRxiv pre-print).*
