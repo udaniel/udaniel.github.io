@@ -26,7 +26,7 @@ By leveraging patient-accessible data, we build scalable, home-based early warni
 
 * **Journal of Clinical Epidemiology (2026):** [Enhancing Prediabetes and Diabetes Detection Through a Machine Learning-Enabled Self-Assessment Approach]([#](https://doi.org/10.1016/j.jclinepi.2026.112266))
 * **PLOS Digital Health (2026):** [MERWACS: Development and External Validation of a Non-Invasive Machine Learning Tool for Identifying Subjects to be Screened for CKD]([#](https://doi.org/10.1371/journal.pdig.0001486))
-* **(Under Review at *npj Digital Public Health*):** [Limited utility of diet quality scores in anthropometric prediabetes and diabetes screening models]
+* **(Under Review at *npj Digital Public Health*):** Limited utility of diet quality scores in anthropometric prediabetes and diabetes screening models
 
 
 ### Real-World Impact & Popular Media
