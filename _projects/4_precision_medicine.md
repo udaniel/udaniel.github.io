@@ -12,7 +12,7 @@ During my PhD and early postdoctoral work at Université Paris Cité and Stanfor
 
 This work successfully translated complex biostatistics into clinical tools that minimize invasive procedures, improve diagnostic precision, and assess macro-level healthcare system shocks (such as pandemics) on global transplant networks.
 
-### Key Publication
+### Key Publications
 
 <!-- This creates a 3-column grid for your logos -->
 <div class="row">
@@ -69,7 +69,7 @@ These algorithms gained significant international media attention for their capa
     International media coverage including The Guardian, The Times, Forbes, Al Jazeera, Le Monde, and more.
 </div>
 
-**On AI Diagnostics & Virtual Biopsies:**
+**On AI Diagnostics:**
 * **Nature Medicine:** [Automating kidney transplant diagnostics](https://www.nature.com/articles/s41591-023-02300-z)
 * **Le Monde:** [Un algorithme améliore le diagnostic de rejet de greffe du rein](https://www.lemonde.fr/sciences/article/2023/05/09/un-algorithme-ameliore-le-diagnostic-de-rejet-de-greffe-du-rein_6172583_1650684.html)
 
