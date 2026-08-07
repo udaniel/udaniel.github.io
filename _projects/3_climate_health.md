@@ -7,7 +7,7 @@ category: Sustainability
 ---
 
 ### Project Overview
-Working with DTU Sustain, this research investigates the macro-level health impacts of climate change, specifically focusing on the unequal health burdens from heat and cold extremes. 
+At DTU Sustain, my research investigates the macro-level health impacts of climate change, specifically focusing on the unequal health burdens from heat and cold extremes. 
 
 We developed a global framework linking consumption-based greenhouse gas emissions to country-specific health damages, measured in Disability-Adjusted Life Years (DALYs). A key output of this work is the **Health Injustice Index**, a powerful instrument for climate accountability that reframes global emissions responsibility in terms of tangible human health impacts.
 
