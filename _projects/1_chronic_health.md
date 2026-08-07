@@ -94,5 +94,5 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Medical Xpress:** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
 * **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
-* **Mind Body Green:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes) *
+* **mindbodygreen:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes)
 * **myScience:** [The length of your upper leg could help detect diabetes](https://www.myscience.dk/news/2026/the_length_of_your_upper_leg_could_help_detect_diabetes-2026-dtu)
