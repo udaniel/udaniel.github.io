@@ -1,66 +1,54 @@
-<style>
-/* Position the parent span so the tooltip aligns perfectly relative to it */
-span.info {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-
-/* The Tooltip Bubble */
-span.info::after {
-  content: attr(data-content); /* Dynamically grabs the text from the bibtex! */
-  position: absolute;
-  bottom: 140%; /* Render directly above the icon */
-  left: 50%;
-  transform: translateX(-50%);
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Find all popover icons
+  const popovers = document.querySelectorAll('[data-toggle="popover"]');
   
-  /* Styling */
-  background-color: rgba(33, 33, 33, 0.95);
-  color: #ffffff;
-  text-align: center;
-  padding: 6px 12px;
-  border-radius: 4px;
-  font-size: 11px;
-  font-family: inherit;
-  font-weight: 500;
-  white-space: nowrap;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  
-  /* Hidden by default with a smooth fade-in */
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
-  z-index: 99999;
-}
-
-/* The Tooltip Arrow pointing down */
-span.info::before {
-  content: "";
-  position: absolute;
-  bottom: 120%; /* Sits right under the bubble */
-  left: 50%;
-  transform: translateX(-50%);
-  border-width: 6px;
-  border-style: solid;
-  border-color: rgba(33, 33, 33, 0.95) transparent transparent transparent;
-  
-  /* Hidden by default */
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.2s ease-in-out;
-  z-index: 99999;
-}
-
-/* Hover Effect: Smoothly fade in and slightly raise the bubble */
-span.info:hover::after {
-  opacity: 1;
-  visibility: visible;
-  transform: translate(-50%, -4px); /* Subtle raising animation on hover */
-}
-
-span.info:hover::before {
-  opacity: 1;
-  visibility: visible;
-}
-</style>
+  popovers.forEach(el => {
+    // Add custom hover behavior since Bootstrap JS is disabled
+    el.addEventListener('mouseenter', function(e) {
+      const content = this.getAttribute('data-content');
+      if (!content) return;
+      
+      // Create a clean tooltip div
+      const tooltip = document.createElement('div');
+      tooltip.innerText = content;
+      
+      // Apply clean, visible styling (works on both light and dark themes)
+      Object.assign(tooltip.style, {
+        position: 'fixed',
+        backgroundColor: '#222222',
+        color: '#ffffff',
+        padding: '6px 12px',
+        borderRadius: '4px',
+        fontSize: '11px',
+        fontWeight: '500',
+        fontFamily: 'system-ui, -apple-system, sans-serif',
+        zIndex: '999999',
+        pointerEvents: 'none',
+        boxShadow: '0 4px 12px rgba(0,0,0,0.4)',
+        border: '1px solid rgba(255,255,255,0.15)',
+        transform: 'translate(-50%, -130%)', // Centered and raised above the icon
+        whiteSpace: 'nowrap'
+      });
+      
+      document.body.appendChild(tooltip);
+      
+      // Calculate viewport coordinates to position it exactly above the icon
+      const rect = this.getBoundingClientRect();
+      tooltip.style.left = (rect.left + rect.width / 2) + 'px';
+      tooltip.style.top = rect.top + 'px';
+      
+      // Store the tooltip reference on the icon so we can remove it on leave
+      this._customTooltip = tooltip;
+    });
+    
+    // Destroy the tooltip when mouse leaves the icon
+    el.addEventListener('mouseleave', function() {
+      if (this._customTooltip) {
+        this._customTooltip.remove();
+        this._customTooltip = null;
+      }
+    });
+  });
+});
+</script>
