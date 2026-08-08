@@ -1,3 +1,38 @@
+---
+layout: page
+title: Chronic Disease Early-Warning Systems
+description: MEDWACS & MERWACS algorithms for predictive health
+img: assets/img/JCE.jpg 
+importance: 1
+category: Public Health
+---
+
+### Project Overview
+This project focuses on the development and external validation of non-invasive machine learning tools for identifying subjects to be screened for chronic conditions, such as Chronic Kidney Disease (CKD), prediabetes, and diabetes. 
+
+By leveraging patient-accessible data, we build scalable, home-based early warning systems that empower individuals and alleviate burdens on healthcare systems.
+
+### Key Publications
+
+<!-- Journal Logos Grid -->
+<div class="row mt-3 mb-4 align-items-center">
+    <div class="col-sm-6 mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="lazy" path="assets/img/JCE.jpg" title="Journal of Clinical Epidemiology" class="img-fluid rounded z-depth-1" width="50%" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0 text-center">
+        <img src="{{ '/assets/img/PLOS.gif' | relative_url }}" alt="PLOS Digital Health" class="img-fluid rounded z-depth-1" style="width: 100%;">
+    </div>
+</div>
+
+* **Journal of Clinical Epidemiology (2026):** [Enhancing Prediabetes and Diabetes Detection Through a Machine Learning-Enabled Self-Assessment Approach](https://doi.org/10.1016/j.jclinepi.2026.112266)
+* **PLOS Digital Health (2026):** [MERWACS: Development and External Validation of a Non-Invasive Machine Learning Tool for Identifying Subjects to be Screened for CKD](https://doi.org/10.1371/journal.pdig.0001486)
+* **(Under Review at *npj Digital Public Health*):** Limited utility of diet quality scores in anthropometric prediabetes and diabetes screening models
+
+
+### Real-World Impact & Popular Media
+The MEDWACS early-warning tool has received extensive media coverage across international broadsheets, national television, and specialized professional medical press for its innovative approach to home-based diabetes screening.
+
+
 <!-- Media Logos Grid (12 Curated Logos) -->
 <div class="row mt-3 mb-4 align-items-center justify-content-center">
     <!-- Row 1: Global Mass Media & International -->
