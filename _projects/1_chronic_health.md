@@ -86,6 +86,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 
 **Specialized Medical & Science Press**
 * **Sundhedsmonitor (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://sundhedsmonitor.dk/nyheder/praksis/article19505643.ece)
+* **MedWatch (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://medwatch.dk/article19502576.ece)
 * **Sanità Informazione (Italy):** [Diabete e prediabete, l’AI ne stima il rischio usando sette misure del corpo](https://www.sanitainformazione.it/diabete-e-prediabete-l-ai-ne-stima-il-rischio-usando-sette-misure-del-corpo/)
 * **Medical Xpress:** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 
@@ -93,6 +94,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Berlingske:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.berlingske.dk/danmark/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Politiken:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News:** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
+* **20 Minutos (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes: uno es la longitud del muslo](https://www.20minutos.es/salud/siete-datos-que-puedes-medir-casa-revelan-tu-riesgo-prediabetes-uno-es-longitud-muslo_7023822_0.html)
 * **Gazzetta dello Sport (Italy):** [Diabete di tipo 2: una semplice misura del corpo potrebbe individuarlo](https://www.gazzetta.it/salute/07-08-2026/diabete-di-tipo-2-una-semplice-misura-del-corpo-potrebbe-individuarlo.shtml)
 * **El Caribe (Dominican Republic):** [¿Sabías que puedes medir tu riesgo de prediabetes y diabetes tipo 2 en casa?](https://www.elcaribe.com.do/panorama/sabias-que-puedes-medir-tu-riesgo-de-prediabetes-y-diabetes-tipo-2-en-casa/)
 * **Alfavita (Greece):** [Μπορεί το σώμα να κρύβει ενδείξεις για τον διαβήτη; Οι επιστήμονες λένε «ναι»](https://www.alfavita.gr/epistimi/555837_mporei-soma-na-krybei-endeixeis-gia-ton-diabiti-oi-epistimones-lene-nai)
@@ -101,6 +103,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 **Mainstream & Lifestyle Media**
 * **Newsweek:** [One Body Measurement Could Help Reveal Your Diabetes Risk—It's Not Weight](https://www.newsweek.com/one-body-measurement-could-help-reveal-your-diabetes-risk-its-not-weight-12264603)
 * **Yahoo Health:** [The Best Way To Screen For Prediabetes May Not Involve A Blood Test At All](https://health.yahoo.com/conditions/endocrine/diabetes/articles/best-way-screen-prediabetes-may-090000065.html)
+* **Top Santé (France):** [Et si la longueur de vos cuisses révélait votre risque de diabète de type 2 ? C'est ce que révèle cette nouvelle étude](https://www.topsante.com/medecine/maladies_chroniques/et-si-la-longueur-de-vos-cuisses-revelait-votre-risque-de-diabete-de-type-2-cest-ce-que-revele-cette-nouvelle-etude-981683)
 * **Marie Claire:** [Diabète de type 2 : voici ce que la longueur de vos cuisses dit de votre risque, selon une étude](https://www.marieclaire.fr/diabete-type-2-longueur-cuisses-test-depistage-ia,1518409.asp)
 * **Daily Mail:** [The length of your thighs can determine your risk of developing diabetes, researchers say](https://www.dailymail.com/health/article-16022081/Length-thighs-determine-developing-diabetes-researchers.html)
 * **mindbodygreen:** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes)
