@@ -94,6 +94,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Berlingske:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.berlingske.dk/danmark/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Politiken:** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News:** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
+* **Tencent News (China):** [怎么提前知道以后是否得糖尿病？很简单，教你一种方法](https://news.qq.com/rain/a/20260805A0ARYQ00?id=20260805A0ARYQ00&path=a&app=news&suid=&redirect_pc=1)
 * **20 Minutos (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes: uno es la longitud del muslo](https://www.20minutos.es/salud/siete-datos-que-puedes-medir-casa-revelan-tu-riesgo-prediabetes-uno-es-longitud-muslo_7023822_0.html)
 * **Gazzetta dello Sport (Italy):** [Diabete di tipo 2: una semplice misura del corpo potrebbe individuarlo](https://www.gazzetta.it/salute/07-08-2026/diabete-di-tipo-2-una-semplice-misura-del-corpo-potrebbe-individuarlo.shtml)
 * **El Caribe (Dominican Republic):** [¿Sabías que puedes medir tu riesgo de prediabetes y diabetes tipo 2 en casa?](https://www.elcaribe.com.do/panorama/sabias-que-puedes-medir-tu-riesgo-de-prediabetes-y-diabetes-tipo-2-en-casa/)
