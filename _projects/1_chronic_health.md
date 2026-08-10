@@ -83,6 +83,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 **Television & Broadcast Interviews**
 * **TV 2 News (Denmark):** [Ny hjemmetest viser risiko for diabetes](https://tv2.dk/reel/2026-07-31-ny-hjemmetest-viser-risiko-for-diabetes-6402517845112)
 * **TV 2 Kosmopol (Denmark):** [Ny hjemmetest kan spore diabetes](https://www.tv2kosmopol.dk/metropolen/ny-hjemmetest-kan-spore-diabetes-57469) \| [Ny online test viser risiko for diabetes med dit lår](https://www.tv2kosmopol.dk/ny-online-test-viser-risiko-for-diabetes-med-dit-laar)
+  * *Note: Coverage was subsequently syndicated across the national TV 2 network, including TV 2 Fyn, TV 2 Østjylland, TV 2 MidtVest, TV 2 Bornholm, and TV 2 Livsstil.*
 
 **Specialized Medical & Science Press**
 * **Sundhedsmonitor (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://sundhedsmonitor.dk/nyheder/praksis/article19505643.ece)
