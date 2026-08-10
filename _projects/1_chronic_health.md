@@ -24,7 +24,7 @@ By leveraging patient-accessible data, we build scalable, home-based early warni
     </div>
 </div>
 
-* **Journal of Clinical Epidemiology (2026):** [Enhancing Prediabetes and Diabetes Detection Through a Machine Learning-Enabled Self-Assessment Approach](https://doi.org/10.1016/j.jclinepi.2026.112266)
+* **Journal of Clinical Epidemiology (2026):** [Enhancing Prediabetes and Diabetes Detection Through a Machine Learning-Enabled Self-Assessment Approach (MEDWACS)](https://doi.org/10.1016/j.jclinepi.2026.112266)
 * **PLOS Digital Health (2026):** [MERWACS: Development and External Validation of a Non-Invasive Machine Learning Tool for Identifying Subjects to be Screened for CKD](https://doi.org/10.1371/journal.pdig.0001486)
 * **(Under Review at *npj Digital Public Health*):** Limited utility of diet quality scores in anthropometric prediabetes and diabetes screening models
 
@@ -89,12 +89,14 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Sundhedsmonitor (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://sundhedsmonitor.dk/nyheder/praksis/article19505643.ece)
 * **MedWatch (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://medwatch.dk/article19502576.ece)
 * **Sanità Informazione (Italy):** [Diabete e prediabete, l’AI ne stima il rischio usando sette misure del corpo](https://www.sanitainformazione.it/diabete-e-prediabete-l-ai-ne-stima-il-rischio-usando-sette-misure-del-corpo/)
+* **ConSalud (Spain):** [La longitud del muslo se incorpora a una herramienta de IA para detectar el riesgo de diabetes](https://www.consalud.es/pacientes/la-longitud-del-muslo-se-incorpora-a-una-herramienta-de-ia-para-detectar-el-riesgo-de-diabetes.html)
 * **Medical Xpress (UK):** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 
 **National Broadsheets & International News**
 * **Berlingske (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.berlingske.dk/danmark/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Politiken (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News (Denmark):** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
+* **Amar Ujala (India):** [MEDWACS Test: जांघ की लंबाई बताएगी आपको डायबिटीज का खतरा तो नहीं? अध्ययन में सामने आया चौंकाने वाला कनेक्शन](https://www.amarujala.com/lifestyle/fitness/study-found-thigh-length-could-help-detect-diabetes-self-test-at-home-2026-08-10)
 * **Tencent News (China):** [怎么提前知道以后是否得糖尿病？很简单，教你一种方法](https://news.qq.com/rain/a/20260805A0ARYQ00?id=20260805A0ARYQ00&path=a&app=news&suid=&redirect_pc=1)
 * **Jornal de Notícias (Portugal):** [Ferramenta de IA gratuita deteta propensão para a diabetes, sem usar agulhas](https://www.jn.pt/delas/artigo/ferramenta-de-ia-gratuita-deteta-propensao-para-a-diabetes-e-sem-usar-agulhas/18113264)
 * **20 Minutos (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes: uno es la longitud del muslo](https://www.20minutos.es/salud/siete-datos-que-puedes-medir-casa-revelan-tu-riesgo-prediabetes-uno-es-longitud-muslo_7023822_0.html)
