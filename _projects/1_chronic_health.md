@@ -88,7 +88,9 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 **Specialized Medical & Science Press**
 * **Sundhedsmonitor (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://sundhedsmonitor.dk/nyheder/praksis/article19505643.ece)
 * **MedWatch (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://medwatch.dk/article19502576.ece)
+* **News-Medical.net (Global):** [New home test uses thigh length to detect type 2 diabetes or prediabetes](https://www.news-medical.net/news/20260729/New-home-test-uses-thigh-length-to-detect-type-2-diabetes-or-prediabetes.aspx)
 * **Sanità Informazione (Italy):** [Diabete e prediabete, l’AI ne stima il rischio usando sette misure del corpo](https://www.sanitainformazione.it/diabete-e-prediabete-l-ai-ne-stima-il-rischio-usando-sette-misure-del-corpo/)
+* **Infosalus (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes y diabetes tipo 2: uno es la longitud del muslo](https://www.infosalus.com/salud-investigacion/noticia-siete-datos-puedes-medir-casa-revelan-riesgo-prediabetes-diabetes-tipo-longitud-muslo-20260808095948.html)
 * **ConSalud (Spain):** [La longitud del muslo se incorpora a una herramienta de IA para detectar el riesgo de diabetes](https://www.consalud.es/pacientes/la-longitud-del-muslo-se-incorpora-a-una-herramienta-de-ia-para-detectar-el-riesgo-de-diabetes.html)
 * **Medical Xpress (UK):** [The length of your upper leg could help detect diabetes](https://medicalxpress.com/news/2026-07-length-upper-leg-diabetes.html)
 
