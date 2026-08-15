@@ -99,6 +99,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Politiken (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News (Denmark):** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
 * **Amar Ujala (India):** [MEDWACS Test: जांघ की लंबाई बताएगी आपको डायबिटीज का खतरा तो नहीं? अध्ययन में सामने आया चौंकाने वाला कनेक्शन](https://www.amarujala.com/lifestyle/fitness/study-found-thigh-length-could-help-detect-diabetes-self-test-at-home-2026-08-10)
+* **IDN Times (Indonesia):** [Panjang Paha Bisa Ungkap Risiko Diabetes, Ini Temuan Studi](https://www.idntimes.com/health/medical/panjang-paha-bisa-memberi-petunjuk-risiko-diabetes-00-92d83-vynjd1)
 * **Tencent News (China):** [怎么提前知道以后是否得糖尿病？很简单，教你一种方法](https://news.qq.com/rain/a/20260805A0ARYQ00?id=20260805A0ARYQ00&path=a&app=news&suid=&redirect_pc=1)
 * **Jornal de Notícias (Portugal):** [Ferramenta de IA gratuita deteta propensão para a diabetes, sem usar agulhas](https://www.jn.pt/delas/artigo/ferramenta-de-ia-gratuita-deteta-propensao-para-a-diabetes-e-sem-usar-agulhas/18113264)
 * **20 Minutos (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes: uno es la longitud del muslo](https://www.20minutos.es/salud/siete-datos-que-puedes-medir-casa-revelan-tu-riesgo-prediabetes-uno-es-longitud-muslo_7023822_0.html)
