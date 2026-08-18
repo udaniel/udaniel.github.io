@@ -86,6 +86,8 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
   * *Note: Coverage was subsequently syndicated across the national TV 2 network, including TV 2 Fyn, TV 2 Østjylland, TV 2 MidtVest, TV 2 Bornholm, and TV 2 Livsstil.*
 
 **Specialized Medical & Science Press**
+* **Diagnostics World News (US/Global):** [Home Test For Diabetes Risk Has A Leg Up On Standard Methods](https://www.diagnosticsworldnews.com/news/2026/08/18/home-test-for-diabetes-risk-has-a-leg-up-on-standard-methods) 
+  * *Note: Features an exclusive interview discussing the development of both the MEDWACS (diabetes) and MERWACS (kidney disease) algorithms.*
 * **Sundhedsmonitor (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://sundhedsmonitor.dk/nyheder/praksis/article19505643.ece)
 * **MedWatch (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://medwatch.dk/article19502576.ece)
 * **News-Medical.net (Global):** [New home test uses thigh length to detect type 2 diabetes or prediabetes](https://www.news-medical.net/news/20260729/New-home-test-uses-thigh-length-to-detect-type-2-diabetes-or-prediabetes.aspx)
