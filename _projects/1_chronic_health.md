@@ -118,9 +118,12 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Marie Claire (France):** [Diabète de type 2 : voici ce que la longueur de vos cuisses dit de votre risque, selon une étude](https://www.marieclaire.fr/diabete-type-2-longueur-cuisses-test-depistage-ia,1518409.asp)
 * **Daily Mail (UK):** [The length of your thighs can determine your risk of developing diabetes, researchers say](https://www.dailymail.com/health/article-16022081/Length-thighs-determine-developing-diabetes-researchers.html)
 * **mindbodygreen (US):** [The Surprising Body Measurement That Might Predict Your Diabetes Risk](https://www.mindbodygreen.com/articles/could-prediabetes-be-detected-without-blood-test-new-study-says-yes)
+* **Dagens (Norway):** [Ny test kan avdekke risiko for diabetes: Måler blant annet lårens lengde](https://www.dagens.no/livsstil/ny-test-kan-avdekke-risiko-for-diabetes-maler-blant-annet-larens-lengde)
 * **B.T. (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.bt.dk/samfund/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Ekstra Bladet (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://ekstrabladet.dk/nyheder/samfund/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes/11244649)
 * **JydskeVestkysten (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://jv.dk/indland/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
+* **Pensionist.dk (Denmark):** [Nyt studie fastslår: Længden på denne kropsdel kan afsløre, om du har diabetes](https://pensionist.dk/sundhed/nyt-studie-fastslaar-laengden-paa-denne-kropsdel-kan-afsloere-om-du-har-diabetes)
+
 
 **Institutional & Wire Services**
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
