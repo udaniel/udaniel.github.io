@@ -129,6 +129,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 
 
 **Institutional & Wire Services**
+* **DYNAMO Magazine (DTU) (Denmark):** [Feature in Issue 86](https://issuu.com/dtudk/docs/dynamo_86?fr=sZmJjYzg3OTI3MTc)
 * **Technical University of Denmark (DTU):** [The length of your upper leg could help detect diabetes](https://www.dtu.dk/english/news/all-news/the-length-of-your-upper-leg-could-help-detect-diabetes?id=8d0d7751-b2b5-4b16-861f-307e01ea2bbb)
 * **EurekAlert! (AAAS) (US):** [The length of your upper leg could help detect diabetes](https://www.eurekalert.org/news-releases/1138543)
 * **Ritzau (Denmark):** [Længden på dit lår kan være med til at afsløre diabetes](https://via.ritzau.dk/pressemeddelelse/15064645/laengden-pa-dit-lar-kan-vaere-med-til-at-afslore-diabetes?publisherId=13561337&lang=da)
