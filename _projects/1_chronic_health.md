@@ -102,6 +102,8 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **DR News (Denmark):** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
 * **Amar Ujala (India):** [MEDWACS Test: जांघ की लंबाई बताएगी आपको डायबिटीज का खतरा तो नहीं? अध्ययन में सामने आया चौंकाने वाला कनेक्शन](https://www.amarujala.com/lifestyle/fitness/study-found-thigh-length-could-help-detect-diabetes-self-test-at-home-2026-08-10)
 * **IDN Times (Indonesia):** [Panjang Paha Bisa Ungkap Risiko Diabetes, Ini Temuan Studi](https://www.idntimes.com/health/medical/panjang-paha-bisa-memberi-petunjuk-risiko-diabetes-00-92d83-vynjd1)
+* **IRNA (Iran):** [اندازه‌گیری طول ران؛ روشی جدید برای تشخیص خطر دیابت بدون آزمایش خون
+](https://www.irna.ir/news/86236708/%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B7%D9%88%D9%84-%D8%B1%D8%A7%D9%86-%D8%B1%D9%88%D8%B4%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%AE%D8%B7%D8%B1-%D8%AF%DB%8C%D8%A7%D8%A8%D8%AA-%D8%A8%D8%AF%D9%88%D9%86-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4)
 * **Tencent News (China):** [怎么提前知道以后是否得糖尿病？很简单，教你一种方法](https://news.qq.com/rain/a/20260805A0ARYQ00?id=20260805A0ARYQ00&path=a&app=news&suid=&redirect_pc=1)
 * **Jornal de Notícias (Portugal):** [Ferramenta de IA gratuita deteta propensão para a diabetes, sem usar agulhas](https://www.jn.pt/delas/artigo/ferramenta-de-ia-gratuita-deteta-propensao-para-a-diabetes-e-sem-usar-agulhas/18113264)
 * **20 Minutos (Spain):** [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes: uno es la longitud del muslo](https://www.20minutos.es/salud/siete-datos-que-puedes-medir-casa-revelan-tu-riesgo-prediabetes-uno-es-longitud-muslo_7023822_0.html)
