@@ -100,7 +100,7 @@ The MEDWACS early-warning tool has received extensive media coverage across inte
 * **Berlingske (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://www.berlingske.dk/danmark/hjemmetest-kan-spore-type-2-diabetes-eller-praediabetes)
 * **Politiken (Denmark):** [Hjemmetest kan spore type 2-diabetes eller prædiabetes](https://politiken.dk/danmark/sundhed/art10929994/Hjemmetest-kan-spore-type-2-diabetes-eller-pr%C3%A6diabetes)
 * **DR News (Denmark):** [Nu kan hjemmetest spore diabetes](https://www.dr.dk/nyheder/seneste/nu-kan-hjemmetest-spore-diabetes)
-* **Health Chosun (South Korea):** [집에서 ‘이곳’ 길이 측정해 보세요… 숨은 당뇨병 위험 보입니다]
+* **Health Chosun (South Korea):** [집에서 ‘이곳’ 길이 측정해 보세요… 숨은 당뇨병 위험 보입니다](https://health.chosun.com/site/data/html_dir/2026/08/21/2026082102214.html)
 * **Tencent News (China):** [怎么提前知道以后是否得糖尿病？很简单，教你一种方法](https://news.qq.com/rain/a/20260805A0ARYQ00?id=20260805A0ARYQ00&path=a&app=news&suid=&redirect_pc=1)
 (https://health.chosun.com/site/data/html_dir/2026/08/21/2026082102214.html)
 * **Amar Ujala (India):** [MEDWACS Test: जांघ की लंबाई बताएगी आपको डायबिटीज का खतरा तो नहीं? अध्ययन में सामने आया चौंकाने वाला कनेक्शन](https://www.amarujala.com/lifestyle/fitness/study-found-thigh-length-could-help-detect-diabetes-self-test-at-home-2026-08-10)
